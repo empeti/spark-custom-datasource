@@ -1,0 +1,19 @@
+[debug] Packaging E:\broadridge\spark-custom-datasource\target\scala-2.11\spark-custom-datasource_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	org
+[debug] 	  E:\broadridge\spark-custom-datasource\target\scala-2.11\classes\org
+[debug] 	org\mpeti
+[debug] 	  E:\broadridge\spark-custom-datasource\target\scala-2.11\classes\org\mpeti
+[debug] 	org\mpeti\custom
+[debug] 	  E:\broadridge\spark-custom-datasource\target\scala-2.11\classes\org\mpeti\custom
+[debug] 	org\mpeti\custom\datasource
+[debug] 	  E:\broadridge\spark-custom-datasource\target\scala-2.11\classes\org\mpeti\custom\datasource
+[debug] 	org\mpeti\custom\datasource\App$.class
+[debug] 	  E:\broadridge\spark-custom-datasource\target\scala-2.11\classes\org\mpeti\custom\datasource\App$.class
+[debug] 	org\mpeti\custom\datasource\App.class
+[debug] 	  E:\broadridge\spark-custom-datasource\target\scala-2.11\classes\org\mpeti\custom\datasource\App.class
+[debug] 	org\mpeti\custom\datasource\CustomDatasourceRelation.class
+[debug] 	  E:\broadridge\spark-custom-datasource\target\scala-2.11\classes\org\mpeti\custom\datasource\CustomDatasourceRelation.class
+[debug] 	org\mpeti\custom\datasource\DefaultSource.class
+[debug] 	  E:\broadridge\spark-custom-datasource\target\scala-2.11\classes\org\mpeti\custom\datasource\DefaultSource.class
+[debug] Done packaging.
